@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "171519671438",
+    "firebase_url": "https://stux-play.firebaseio.com",
+    "project_id": "stux-play",
+    "storage_bucket": "stux-play.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171519671438:android:812e94f9697f9702e31ddf",
+        "android_client_info": {
+          "package_name": "com.stuxsoftwares.stuxplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171519671438-rhpp9f89o71l98lnu97ieof24u7e8m7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stuxsoftwares.stuxplay",
+            "certificate_hash": "be585233b6b8141f4da7edb83d7c38396e8f0c83"
+          }
+        },
+        {
+          "client_id": "171519671438-9bleq328h6anqt44f2iihguftcafipjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm_JFemDE9jRmiZzc1ZJf1z3nn8bosBdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171519671438-9bleq328h6anqt44f2iihguftcafipjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
