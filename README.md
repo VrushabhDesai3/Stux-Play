@@ -1,6 +1,6 @@
 # stuxplay
 
-A new Flutter application.
+Modified Readme
 
 ## Getting Started
 
